@@ -1,0 +1,16 @@
+2024-04-06T15:40:15.529Z  INFO 16344 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 173664407ms
+2024-04-06T15:41:15.529Z  INFO 16344 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2024-04-06T15:42:15.529Z  INFO 16344 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2024-04-06T15:42:41.803Z  INFO 16344 --- [http-nio-8761-exec-9] c.n.e.registry.AbstractInstanceRegistry  : Registered instance PRODUCT-SERVICE/DESKTOP-UGNVI23:product-service:8081 with status DOWN (replication=false)
+2024-04-06T15:42:42.992Z  INFO 16344 --- [http-nio-8761-exec-10] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ORDER-SERVICE/DESKTOP-UGNVI23:order-service:8082 with status DOWN (replication=false)
+2024-04-06T15:42:45.017Z  INFO 16344 --- [http-nio-8761-exec-4] c.n.e.registry.AbstractInstanceRegistry  : Registered instance INVENTORY-SERVICE/DESKTOP-UGNVI23:inventory-service:0 with status DOWN (replication=false)
+2024-04-06T15:42:45.503Z  INFO 16344 --- [http-nio-8761-exec-2] c.n.e.registry.AbstractInstanceRegistry  : Registered instance API-GATEWAY/DESKTOP-UGNVI23:api-gateway with status DOWN (replication=false)
+2024-04-06T15:42:46.114Z  INFO 16344 --- [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application UNKNOWN with eureka with status DOWN
+2024-04-06T15:42:46.705Z  INFO 16344 --- [SpringApplicationShutdownHook] o.s.c.n.e.server.EurekaServerBootstrap   : Shutting down Eureka Server..
+2024-04-06T15:42:46.767Z  INFO 16344 --- [SpringApplicationShutdownHook] c.n.eureka.DefaultEurekaServerContext    : Shutting down ...
+2024-04-06T15:42:47.820Z  INFO 16344 --- [SpringApplicationShutdownHook] c.n.eureka.DefaultEurekaServerContext    : Shut down
+2024-04-06T15:42:47.821Z  INFO 16344 --- [SpringApplicationShutdownHook] o.s.c.n.e.server.EurekaServerBootstrap   : Eureka Service is now shutdown...
+2024-04-06T15:42:48.094Z  INFO 16344 --- [SpringApplicationShutdownHook] c.n.eureka.DefaultEurekaServerContext    : Shutting down ...
+2024-04-06T15:42:48.232Z  INFO 16344 --- [SpringApplicationShutdownHook] c.n.eureka.DefaultEurekaServerContext    : Shut down
+2024-04-06T15:42:48.362Z  INFO 16344 --- [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-04-06T15:42:48.436Z  INFO 16344 --- [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient

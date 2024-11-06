@@ -1,0 +1,238 @@
+2024-04-06T15:39:55.737Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition product-service applying {_genkey_0=/api/product} to Path
+2024-04-06T15:39:56.447Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: product-service
+2024-04-06T15:39:56.448Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition order-service applying {_genkey_0=/api/order} to Path
+2024-04-06T15:39:56.450Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: order-service
+2024-04-06T15:39:56.452Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying {_genkey_0=/eureka/web} to Path
+2024-04-06T15:39:56.453Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying filter {_genkey_0=/} to SetPath
+2024-04-06T15:39:56.456Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server
+2024-04-06T15:39:56.457Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server-static applying {_genkey_0=/eureka/**} to Path
+2024-04-06T15:39:56.458Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server-static
+2024-04-06T15:40:33.113Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition product-service applying {_genkey_0=/api/product} to Path
+2024-04-06T15:40:33.116Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: product-service
+2024-04-06T15:40:33.117Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition order-service applying {_genkey_0=/api/order} to Path
+2024-04-06T15:40:33.119Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: order-service
+2024-04-06T15:40:33.119Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying {_genkey_0=/eureka/web} to Path
+2024-04-06T15:40:33.121Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying filter {_genkey_0=/} to SetPath
+2024-04-06T15:40:33.122Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server
+2024-04-06T15:40:33.123Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server-static applying {_genkey_0=/eureka/**} to Path
+2024-04-06T15:40:33.126Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server-static
+2024-04-06T15:41:04.012Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition product-service applying {_genkey_0=/api/product} to Path
+2024-04-06T15:41:04.014Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: product-service
+2024-04-06T15:41:04.014Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition order-service applying {_genkey_0=/api/order} to Path
+2024-04-06T15:41:04.016Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: order-service
+2024-04-06T15:41:04.016Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying {_genkey_0=/eureka/web} to Path
+2024-04-06T15:41:04.021Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying filter {_genkey_0=/} to SetPath
+2024-04-06T15:41:04.029Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server
+2024-04-06T15:41:04.030Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server-static applying {_genkey_0=/eureka/**} to Path
+2024-04-06T15:41:04.032Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server-static
+2024-04-06T15:41:35.098Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition product-service applying {_genkey_0=/api/product} to Path
+2024-04-06T15:41:35.100Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: product-service
+2024-04-06T15:41:35.100Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition order-service applying {_genkey_0=/api/order} to Path
+2024-04-06T15:41:35.102Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: order-service
+2024-04-06T15:41:35.103Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying {_genkey_0=/eureka/web} to Path
+2024-04-06T15:41:35.104Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying filter {_genkey_0=/} to SetPath
+2024-04-06T15:41:35.106Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server
+2024-04-06T15:41:35.106Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server-static applying {_genkey_0=/eureka/**} to Path
+2024-04-06T15:41:35.108Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server-static
+2024-04-06T15:42:05.114Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition product-service applying {_genkey_0=/api/product} to Path
+2024-04-06T15:42:05.116Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: product-service
+2024-04-06T15:42:05.117Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition order-service applying {_genkey_0=/api/order} to Path
+2024-04-06T15:42:05.118Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: order-service
+2024-04-06T15:42:05.118Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying {_genkey_0=/eureka/web} to Path
+2024-04-06T15:42:05.121Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying filter {_genkey_0=/} to SetPath
+2024-04-06T15:42:05.122Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server
+2024-04-06T15:42:05.122Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server-static applying {_genkey_0=/eureka/**} to Path
+2024-04-06T15:42:05.125Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server-static
+2024-04-06T15:42:35.134Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition product-service applying {_genkey_0=/api/product} to Path
+2024-04-06T15:42:35.136Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: product-service
+2024-04-06T15:42:35.136Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition order-service applying {_genkey_0=/api/order} to Path
+2024-04-06T15:42:35.138Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: order-service
+2024-04-06T15:42:35.138Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying {_genkey_0=/eureka/web} to Path
+2024-04-06T15:42:35.140Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server applying filter {_genkey_0=/} to SetPath
+2024-04-06T15:42:35.142Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server
+2024-04-06T15:42:35.143Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition discovery-server-static applying {_genkey_0=/eureka/**} to Path
+2024-04-06T15:42:35.146Z DEBUG 12384 --- [api-gateway] [DiscoveryClient-CacheRefreshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: discovery-server-static
+2024-04-06T15:42:45.440Z  INFO 12384 --- [api-gateway] [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application API-GATEWAY with eureka with status DOWN
+2024-04-06T15:42:45.441Z  INFO 12384 --- [api-gateway] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1712418165441, current=DOWN, previous=UP]
+2024-04-06T15:42:45.442Z  INFO 12384 --- [api-gateway] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/DESKTOP-UGNVI23:api-gateway: registering service...
+2024-04-06T15:42:45.509Z  INFO 12384 --- [api-gateway] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/DESKTOP-UGNVI23:api-gateway - registration status: 204
+2024-04-06T15:42:48.326Z  INFO 12384 --- [api-gateway] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-04-06T15:42:51.349Z  INFO 12384 --- [api-gateway] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-04-06T15:42:51.436Z  INFO 12384 --- [api-gateway] [SpringApplicationShutdownHook] c.n.d.s.t.d.RedirectingEurekaHttpClient  : Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/} exception=Connection pool shut down stacktrace=java.lang.IllegalStateException: Connection pool shut down
+	at org.apache.hc.core5.util.Asserts.check(Asserts.java:38)
+	at org.apache.hc.core5.pool.StrictConnPool.lease(StrictConnPool.java:176)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.lease(PoolingHttpClientConnectionManager.java:298)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.acquireEndpoint(InternalExecRuntime.java:103)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:125)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:95)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:70)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:112)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$0(RestTemplateTransportClientFactory.java:143)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:889)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:790)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:672)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.cancel(RestTemplateEurekaHttpClient.java:87)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:91)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:916)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:892)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:457)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:415)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:239)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:202)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:195)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:389)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:136)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:211)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1195)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1186)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1147)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.doClose(ReactiveWebServerApplicationContext.java:149)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1093)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:145)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024-04-06T15:42:51.439Z  WARN 12384 --- [api-gateway] [SpringApplicationShutdownHook] c.n.d.s.t.d.RetryableEurekaHttpClient    : Request execution failed with message: Connection pool shut down
+2024-04-06T15:42:51.451Z  INFO 12384 --- [api-gateway] [SpringApplicationShutdownHook] c.n.d.s.t.d.RedirectingEurekaHttpClient  : Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=Connection pool shut down stacktrace=java.lang.IllegalStateException: Connection pool shut down
+	at org.apache.hc.core5.util.Asserts.check(Asserts.java:38)
+	at org.apache.hc.core5.pool.StrictConnPool.lease(StrictConnPool.java:176)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.lease(PoolingHttpClientConnectionManager.java:298)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.acquireEndpoint(InternalExecRuntime.java:103)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:125)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:95)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:70)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:112)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$0(RestTemplateTransportClientFactory.java:143)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:889)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:790)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:672)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.cancel(RestTemplateEurekaHttpClient.java:87)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:916)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:892)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:457)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:415)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:239)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:202)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:195)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:389)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:136)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:211)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1195)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1186)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1147)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.doClose(ReactiveWebServerApplicationContext.java:149)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1093)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:145)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:114)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024-04-06T15:42:51.452Z  WARN 12384 --- [api-gateway] [SpringApplicationShutdownHook] c.n.d.s.t.d.RetryableEurekaHttpClient    : Request execution failed with message: Connection pool shut down
+2024-04-06T15:42:51.453Z ERROR 12384 --- [api-gateway] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/DESKTOP-UGNVI23:api-gateway - de-registration failedCannot execute request on any known server
+
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112) ~[eureka-client-2.0.2.jar:2.0.2]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-2.0.2.jar:2.0.2]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74) ~[eureka-client-2.0.2.jar:2.0.2]
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77) ~[eureka-client-2.0.2.jar:2.0.2]
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71) ~[eureka-client-2.0.2.jar:2.0.2]
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:916) ~[eureka-client-2.0.2.jar:2.0.2]
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:892) ~[eureka-client-2.0.2.jar:2.0.2]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:457) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:415) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:239) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:202) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:195) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:389) ~[spring-cloud-context-4.1.2.jar:4.1.2]
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:136) ~[spring-cloud-context-4.1.2.jar:4.1.2]
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:211) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1202) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1195) ~[spring-beans-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1186) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1147) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.doClose(ReactiveWebServerApplicationContext.java:149) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1093) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:145) ~[spring-boot-3.2.4.jar:3.2.4]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:114) ~[spring-boot-3.2.4.jar:3.2.4]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2024-04-06T15:42:51.507Z  INFO 12384 --- [api-gateway] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient

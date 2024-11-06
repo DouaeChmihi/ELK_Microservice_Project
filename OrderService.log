@@ -1,0 +1,6 @@
+2024-04-06T15:39:47.939Z  WARN 20612 --- [order-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2d14m54s657ms490µs600ns).
+2024-04-06T15:40:11.684Z  INFO 20612 --- [order-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-04-06T15:42:42.900Z  INFO 20612 --- [order-service] [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application ORDER-SERVICE with eureka with status DOWN
+2024-04-06T15:42:42.904Z  INFO 20612 --- [order-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1712418162904, current=DOWN, previous=UP]
+2024-04-06T15:42:42.906Z  INFO 20612 --- [order-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_ORDER-SERVICE/DESKTOP-UGNVI23:order-service:8082: registering service...
+2024-04-06T15:42:42.995Z  INFO 20612 --- [order-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_ORDER-SERVICE/DESKTOP-UGNVI23:order-service:8082 - registration status: 204
